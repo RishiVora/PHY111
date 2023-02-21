@@ -1,6 +1,6 @@
 # PHY111
 
-Simulating simple pendulum so you don't have to do the physical labour 😉
+Simulating simple pendulum and generating neatly formatted data so you don't have to do the physical labour 😉
 
 ---
 
